@@ -1,0 +1,12 @@
+﻿################################################################################
+# この .gitignore ファイルは Microsoft(R) Visual Studio によって自動的に作成されました。
+################################################################################
+
+/.vs
+/ES_Forest_VS2022/.vs/ES_Forest_VS2022
+/ES_Forest_VS2022/ES_Forest_VS2022/x64/Debug
+/ES_Forest_VS2022/x64/Debug
+/ES_Forest_VS2022/ES_Forest_VS2022.vcxproj.user
+/ES_Forest_VS2022/ES_Forest_VS2022.vcxproj.filters
+/ES_Forest_VS2022/ES_Forest_VS2022/x64/Release
+/ES_Forest_VS2022/x64/Release
